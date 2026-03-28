@@ -2,6 +2,9 @@
 
 Developed a **multi-page interactive Power BI dashboard** to analyze e-commerce sales data and generate actionable business insights across sales, operations, and product performance.
 
+### 🔹 Overview Dashboard
+![Amazon sales Dashboard](amazon.png)
+
 ### 🔹 Key Contributions
 
 * Designed and implemented **KPIs** including Total Sales, Total Orders, and Average Order Value using DAX
